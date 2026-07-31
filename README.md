@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="./cv/resume.pdf">
+  <a href="./cv/DmitryUsakovSoftwareEngineerBackendCV.pdf">
     <strong>Resume</strong>
   </a>
 </p>
@@ -20,4 +20,3 @@
   <a href="https://www.codewars.com/users/DMustache"><img src="https://www.codewars.com/users/DMustache/badges/small" alt="Codewars"></a>
 
 </p>
-
