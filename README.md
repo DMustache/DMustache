@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="./cv/DmitryUsakovSoftwareEngineerBackendCV.pdf">
+  <a href="./cv/DmitryUsakovSoftwareEngineerRustCV.pdf">
     <strong>Resume</strong>
   </a>
 </p>
