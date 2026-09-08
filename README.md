@@ -21,4 +21,7 @@
 
 <p align="center">
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/DMustache?style=for-the-badge">
+  <a href="https://www.linkedin.com/in/dmitry-usakov-997263435/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
